@@ -1,0 +1,6 @@
+codigoprod                                       int
+descripcion                                      char(50)
+ubicacion                                        char(10)
+precio                                           float
+precio1                                          float
+precio2                                          float

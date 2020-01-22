@@ -1,0 +1,3 @@
+idProv                                           int
+nombreProv                                       char(50)
+ciudad                                           char(40)
